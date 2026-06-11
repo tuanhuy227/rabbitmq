@@ -1,0 +1,8 @@
+/Users/tuanhuytran/Downloads/SendMail/SendMailApi/obj/Debug/net8.0/SendMailApi.csproj.AssemblyReference.cache
+/Users/tuanhuytran/Downloads/SendMail/SendMailApi/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/tuanhuytran/Downloads/SendMail/SendMailApi/obj/Debug/net8.0/SendMailApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tuanhuytran/Downloads/SendMail/SendMailApi/obj/Debug/net8.0/SendMailApi.AssemblyInfoInputs.cache
+/Users/tuanhuytran/Downloads/SendMail/SendMailApi/obj/Debug/net8.0/SendMailApi.AssemblyInfo.cs
+/Users/tuanhuytran/Downloads/SendMail/SendMailApi/obj/Debug/net8.0/SendMailApi.csproj.CoreCompileInputs.cache
+/Users/tuanhuytran/Downloads/SendMail/SendMailApi/obj/Debug/net8.0/SendMailApi.MvcApplicationPartsAssemblyInfo.cs
+/Users/tuanhuytran/Downloads/SendMail/SendMailApi/obj/Debug/net8.0/SendMailApi.MvcApplicationPartsAssemblyInfo.cache
